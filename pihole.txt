@@ -6,3 +6,7 @@
 0.0.0.0 mangaplus.shueisha.co.jp
 0.0.0.0 www.viz.com
 0.0.0.0 bato.to
+0.0.0.0 www.webtoons.com
+0.0.0.0 mangakakalot.com
+0.0.0.0 www.ebookrenta.com
+0.0.0.0 global.bookwalker.jp
