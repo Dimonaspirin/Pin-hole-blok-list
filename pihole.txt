@@ -3,3 +3,6 @@
 0.0.0.0 youtube.com
 0.0.0.0 manga.com
 0.0.0.0 www.crunchyroll.com
+0.0.0.0 mangaplus.shueisha.co.jp
+0.0.0.0 www.viz.com
+0.0.0.0 bato.to
