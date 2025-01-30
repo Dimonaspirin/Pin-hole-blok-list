@@ -1,3 +1,5 @@
+# пример стоп-листа
+#------------------
 0.0.0.0 youtube.com
 0.0.0.0 manga.com
 0.0.0.0 www.crunchyroll.com
