@@ -10,3 +10,7 @@
 0.0.0.0 mangakakalot.com
 0.0.0.0 www.ebookrenta.com
 0.0.0.0 global.bookwalker.jp
+0.0.0.0 www.comico.jp
+0.0.0.0 www.mangahere.cc
+0.0.0.0 fanfox.net
+0.0.0.0 inkr.com
