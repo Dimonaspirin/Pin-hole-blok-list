@@ -19,3 +19,5 @@
 0.0.0.0 comic-walker.com
 0.0.0.0 webtoons.com
 0.0.0.0 line-webtoon.com
+0.0.0.0 minecraft.net
+0.0.0.0 mojang.com
