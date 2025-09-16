@@ -1,6 +1,6 @@
 # пример стоп-листа
 #------------------
-0.0.0.0 youtube.com
+0.0.0.0 yummyanime.tv
 0.0.0.0 manga.com
 0.0.0.0 www.crunchyroll.com
 0.0.0.0 mangaplus.shueisha.co.jp
@@ -21,3 +21,10 @@
 0.0.0.0 line-webtoon.com
 0.0.0.0 minecraft.net
 0.0.0.0 mojang.com
+0.0.0.0 shikimori.one
+0.0.0.0 chiwassu.ru
+0.0.0.0 anime7.blokino.net
+0.0.0.0 findyourfaves.biz.id
+0.0.0.0 mjgame.pro
+0.0.0.0 vast-size.com
+0.0.0.0 site.yummyani.me
