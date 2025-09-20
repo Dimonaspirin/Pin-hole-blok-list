@@ -43,3 +43,11 @@
 0.0.0.0 rutube.ru
 0.0.0.0 www.yakaboo.ua
 0.0.0.0 videohead.tech
+0.0.0.0 static.filmskino.site
+0.0.0.0 esputnik.com
+0.0.0.0 depressively.net
+0.0.0.0 mobirix.com
+0.0.0.0 www.honey-manga.com.ua
+0.0.0.0 videotoday.site
+0.0.0.0 pinimg.com
+0.0.0.0 wss3.mangabuff.ru
