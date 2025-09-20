@@ -31,3 +31,15 @@
 0.0.0.0 alliance-fansub.ru
 0.0.0.0 drmlnd.land
 0.0.0.0 kinovibe.co
+0.0.0.0 kodik.info
+0.0.0.0 krohakid.com.ua
+0.0.0.0 vsedoramy.net
+0.0.0.0 www.kodik.cc
+0.0.0.0 www.nekoteka.com
+0.0.0.0 franecki.net
+0.0.0.0 softboxtv.com
+0.0.0.0 filmix.my
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 rutube.ru
+0.0.0.0 www.yakaboo.ua
+0.0.0.0 videohead.tech
