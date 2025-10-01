@@ -1,5 +1,4 @@
-# пример стоп-листа
-#------------------
+### пример стоп-листа
 0.0.0.0 yummyanime.tv
 0.0.0.0 manga.com
 0.0.0.0 www.crunchyroll.com
@@ -65,3 +64,4 @@
 0.0.0.0 doramy.org
 0.0.0.0 softboxtv.com
 0.0.0.0 vseigru.net
+0.0.0.0 www.youtube.com
