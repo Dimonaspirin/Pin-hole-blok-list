@@ -51,3 +51,5 @@
 0.0.0.0 videotoday.site
 0.0.0.0 pinimg.com
 0.0.0.0 wss3.mangabuff.ru
+0.0.0.0 kinogo.online
+
