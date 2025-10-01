@@ -46,7 +46,7 @@
 0.0.0.0 esputnik.com
 0.0.0.0 depressively.net
 0.0.0.0 mobirix.com
-0.0.0.0 www.honey-manga.com.ua
+0.0.0.0 honey-manga.com.ua
 0.0.0.0 videotoday.site
 0.0.0.0 pinimg.com
 0.0.0.0 wss3.mangabuff.ru
@@ -64,4 +64,4 @@
 0.0.0.0 doramy.org
 0.0.0.0 softboxtv.com
 0.0.0.0 vseigru.net
-0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
