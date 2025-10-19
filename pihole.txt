@@ -78,3 +78,7 @@
 0.0.0.0 jut.su
 0.0.0.0 manga.in.ua
 0.0.0.0 webtoons.com
+0.0.0.0 rbxcdn.com
+0.0.0.0 shikimori.one
+0.0.0.0 chiwassu.ru
+0.0.0.0 anime7.blokino.net
