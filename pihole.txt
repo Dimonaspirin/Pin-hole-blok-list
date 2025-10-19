@@ -65,3 +65,7 @@
 0.0.0.0 softboxtv.com
 0.0.0.0 vseigru.net
 0.0.0.0 youtube.com
+0.0.0.0 play.google.com
+0.0.0.0 log.rutube.ru
+0.0.0.0 weborama.fr
+0.0.0.0 godsave.lgbt
