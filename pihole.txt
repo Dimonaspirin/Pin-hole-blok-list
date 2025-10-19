@@ -69,3 +69,12 @@
 0.0.0.0 log.rutube.ru
 0.0.0.0 weborama.fr
 0.0.0.0 godsave.lgbt
+0.0.0.0 dzen.ru
+0.0.0.0 vseigru.net
+0.0.0.0 yandex.ru
+0.0.0.0 kr.peerhub.net
+0.0.0.0 doramru.com
+0.0.0.0 doramru.org
+0.0.0.0 jut.su
+0.0.0.0 manga.in.ua
+0.0.0.0 webtoons.com
