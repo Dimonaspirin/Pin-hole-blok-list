@@ -82,3 +82,6 @@
 0.0.0.0 shikimori.one
 0.0.0.0 chiwassu.ru
 0.0.0.0 anime7.blokino.net
+0.0.0.0 vkvideo.ru
+0.0.0.0 afisha.sevastopol.su
+0.0.0.0 rezka.ag
