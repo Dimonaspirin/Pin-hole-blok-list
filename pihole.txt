@@ -95,4 +95,5 @@
 0.0.0.0 mjgame.pro
 0.0.0.0 site.yummyani.me
 0.0.0.0 onlinevkino.com
-0.0.0.0 jut-su.net/
+0.0.0.0 jut-su.net
+0.0.0.0 kadikama.com
